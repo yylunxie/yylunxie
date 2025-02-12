@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Allen 🏄‍♂️ !
 
-<!--
-**yylunxie/yylunxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 About me
 
-Here are some ideas to get you started:
+- **AWS Educate Cloud Ambassador, Technical Support @[AWS Educate]()** | Passionate about cloud computing, AI, and full-stack development.
+- **Tech Enthusiast** | Love solving problems, learning new technologies, and building innovative solutions.
+- **Outdoor Explorer** | Enjoy surfing 🏄, mountain climbing 🏔️, and exploring nature.
+- **Lifelong Learner** | Passionate about reading, watching movies, and discovering new ideas.
+- **Always Open to Connect** | Let’s exchange ideas and explore opportunities together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skill sets
+
+[![My Skills](https://skillicons.dev/icons?i=py,docker,pytorch,opencv,react,aws,arduino,raspberrypi)](https://skillicons.dev)
+
+### 📫 Contact me
+
+- Linkedin: https://www.linkedin.com/in/yylunxie/
+- Email: yylunxie@gmail.com
+- Instagram: https://instagram.com/yylunxie
