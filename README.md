@@ -16,4 +16,3 @@
 
 - Linkedin: https://www.linkedin.com/in/yylunxie/
 - Email: yylunxie@gmail.com
-- Instagram: https://instagram.com/yylunxie
