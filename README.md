@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Allen 🏄‍♂️ !
 
 ### 🔭 About me
-
-- **AWS Educate Cloud Ambassador, Technical Support @[AWS Educate]()** | Passionate about cloud computing, AI, and full-stack development.
+- **Azure Map Full Stack Intern @[Microsoft]()**
+- **Ex AWS Educate Cloud Ambassador, Technical Support @[AWS Educate]()** | Passionate about cloud computing, AI, and full-stack development.
 - **Tech Enthusiast** | Love solving problems, learning new technologies, and building innovative solutions.
 - **Outdoor Explorer** | Enjoy surfing 🏄, mountain climbing 🏔️, and exploring nature.
 - **Lifelong Learner** | Passionate about reading, watching movies, and discovering new ideas.
